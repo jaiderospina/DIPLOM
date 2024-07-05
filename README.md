@@ -1,7 +1,7 @@
-# DIPLOM
+# Mi primer repositorio
 Mi primer repositorio
 
-## título 2
+## Casos por aprender...
 
-- gdsjga
-- hksjhdk 
+- Informática forense
+- DevSecOps
